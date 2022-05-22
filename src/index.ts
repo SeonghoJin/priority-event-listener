@@ -1,2 +1,2 @@
-import App from './app';
-new App();
+export { EventEmitter } from './eventEmitter';
+export { EventContext } from './eventContext';
